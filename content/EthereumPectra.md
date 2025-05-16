@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to ReSquared Blogs
 ---
 
 # The Ethereum Pectra Update 
