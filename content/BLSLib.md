@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains Solidity contracts for on-chain verification of BLS (Boneh-Lynn-Shacham) signatures using the BLS12-381 curve. These contracts leverage the EIP-2537 precompiles to perform the necessary elliptic curve operations for signature verification.
+This [repository](https://github.com/yash25198/Threshold-BLS-ERC2537) contains Solidity contracts for on-chain verification of BLS (Boneh-Lynn-Shacham) signatures using the BLS12-381 curve. These contracts leverage the EIP-2537 precompiles to perform the necessary elliptic curve operations for signature verification.
 
 ## Contracts
 
